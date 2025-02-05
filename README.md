@@ -1,5 +1,6 @@
 # MEIOSIS_MS_1
-Workflow for the first manuscript of the project MEIOSIS - Museum spEcImens shed light in biOdiverSIty Shrinkage
+First manuscript of the project MEIOSIS 
+**Museum spEcImens shed light in biOdiverSIty Shrinkage**
 
 
 # Butterfly Wing Length Analysis
